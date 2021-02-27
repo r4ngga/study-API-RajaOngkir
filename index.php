@@ -34,7 +34,7 @@
                                 CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
                                 CURLOPT_CUSTOMREQUEST => "GET",
                                 CURLOPT_HTTPHEADER => array(
-                                    "key:cbe9d2c882e896c942b6ea150a65f4f8"
+                                    "key:API key"
                                 ),
                             ));
 
@@ -68,7 +68,7 @@
                                 CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
                                 CURLOPT_CUSTOMREQUEST => "GET",
                                 CURLOPT_HTTPHEADER => array(
-                                    "key:cbe9d2c882e896c942b6ea150a65f4f8"
+                                    "key:API key"
                                 ),
                             ));
 
